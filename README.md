@@ -1,13 +1,17 @@
-# DataMining-PortfolioOptimization
+# Portfolio Optimization
+ "What is the optimal asset allocation that minimizes portfolio volatility while achieving a target return?"
+ ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+OBJECTIVES , SCOPE, and KEY METRICS: 
 
-OBJECTIVES AND SCOPE: 
-Objective:
-Construct a portfolio that minimizes risk (e.g., low volatility or low Value-at-Risk) through diversification. Diversification will be upheld through using data from groupings of stocks ranging across the top 12 industries. 
+
+Key Metrics:
+
+Weekly Averages Per Industry - file shows chart with weekly mean closing price per industry across time frame 
+
 
 
 Scope:
-- Use a diversified set of stocks spanning multiple industries.
-- Decide on a historical window (e.g., 5 years) that balances recency with data stability. (potentially Compare it with a different dataset (3 years but daily data))
-- Determine whether you want to include all stocks or apply screening criteria (e.g., liquidity, data completeness).
+- Use a diversified set of stocks spanning the major 11 industries.
+- Historical window spans 10 years (Dates from 03-30-2015 - 03--24-2025
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
