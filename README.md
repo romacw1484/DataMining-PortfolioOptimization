@@ -20,7 +20,8 @@ Scope:
 Returns.ipynb - calculates daily percentage returns and computes both the arithmetic average daily returns and the annualized returns (assuming approximately 252 trading days per year). In addition, it calculates daily log returns, which are then used to compute geometric annualized returns for a continuously compounded perspective. The script also generates a covariance matrix based on the log returns to capture how stocks move together, and it derives a corresponding correlation matrix that is visualized as a heatmap.
 ![Correlation-Matrix](https://github.com/user-attachments/assets/cacb575b-e502-4da0-a1e5-b42187833ad6)
 
-Daily_Averages.ipynb - plots average returns over time on graph </n>
+Daily_Averages.ipynb - plots average returns over time on graph 
+
 **Tech**
 <img width="1338" alt="Screenshot 2025-04-08 at 4 33 49 PM" src="https://github.com/user-attachments/assets/30a3a65d-6e86-4e16-a269-c76caf2cb42c" />
 **Utilities** 
