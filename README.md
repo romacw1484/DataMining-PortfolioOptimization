@@ -13,12 +13,7 @@ Weekly Averages Per Industry - file shows chart with weekly mean closing price p
 Scope:
 - Use a diversified set of stocks spanning the major 11 industries.
 - Historical window spans 10 years of daily data (Dates from 03-30-2015 - 03--24-2025)
-
-File Descriptions:
-- Daily: Plots daily price of selected stocks
-- Dash Monte Carlo: Runs Monte Carlo simulation for a stock portfolio the user specifies with graph
-- James Sheet: Math from excel sheet James sent in Python for scalability
-
+  
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Files**
 
@@ -31,3 +26,7 @@ Daily_Averages.ipynb - plots average returns over time on graph
 <img width="1338" alt="Screenshot 2025-04-08 at 4 33 49 PM" src="https://github.com/user-attachments/assets/30a3a65d-6e86-4e16-a269-c76caf2cb42c" />
 **Utilities** 
 <img width="1323" alt="Screenshot 2025-04-08 at 4 34 09 PM" src="https://github.com/user-attachments/assets/b7823524-2c36-454e-942d-5a3297f8c9e2" />
+
+- Dash Monte Carlo: Runs Monte Carlo simulation for a stock portfolio the user specifies with graph
+- 
+- James Sheet: Math from excel sheet James sent in Python for scalability
